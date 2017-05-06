@@ -19,5 +19,5 @@ To see the result follow these steps:
 
     Add the css,html and js in the respective categories and click on run command.
 
-    Use the inline editor component.
+    Use the search component.
 
